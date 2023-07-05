@@ -1,0 +1,17 @@
+When you've completed development in your branch and everything works fine, the final step is merging the branch with the parent branch (dev or master). This is done with the git merge command.
+
+Git merge basically integrates your feature branch with all of its commits back to the dev (or master) branch. It's important to remember that you first need to be on the specific branch that you want to merge with your feature branch.
+
+For example, when you want to merge your feature branch into the dev branch:
+
+Git merge basically integrates your feature branch with all of its commits back to the dev (or master) branch. It's important to remember that you first need to be on the specific branch that you want to merge with your feature branch.
+
+For example, when you want to merge your feature branch into the dev branch:
+
+Git merge basically integrates your feature branch with all of its commits back to the dev (or master) branch. It's important to remember that you first need to be on the specific branch that you want to merge with your feature branch.
+
+For example, when you want to merge your feature branch into the dev branch:
+
+Git merge basically integrates your feature branch with all of its commits back to the dev (or master) branch. It's important to remember that you first need to be on the specific branch that you want to merge with your feature branch.
+
+For example, when you want to merge your feature branch into the dev branch:
