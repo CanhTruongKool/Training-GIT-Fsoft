@@ -1,3 +1,0 @@
-Sometimes we need to undo the changes that we've made. There are various ways to undo our changes locally or remotely (depends on what we need), but we must carefully use these commands to avoid unwanted deletions.
-
-A safer way that we can undo our commits is by using git revert. To see our commit history, first we need to use git log -- oneline:
