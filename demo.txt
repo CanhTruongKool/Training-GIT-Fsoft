@@ -1,5 +1,0 @@
-This is maybe the most-used command of Git. Once we reach a certain point in development, we want to save our changes (maybe after a specific task or issue).
-
-Git commit is like setting a checkpoint in the development process which you can go back to later if needed.
-
-We also need to write a short message to explain what we have developed or changed in the source code.
