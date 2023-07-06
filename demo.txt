@@ -1,0 +1,6 @@
+Add ‘Test connection’ button to clone and edit remote dialogs
+How many times have you added a git remote, only to find out afterwards that it won’t connect? There’s no need to do that anymore – you can test your connection in the Add New Remote dialog.
+Add ‘Test connection’ button to clone and edit remote dialogs
+How many times have you added a git remote, only to find out afterwards that it won’t connect? There’s no need to do that anymore – you can test your connection in the Add New Remote dialog.
+Add ‘Test connection’ button to clone and edit remote dialogs
+How many times have you added a git remote, only to find out afterwards that it won’t connect? There’s no need to do that anymore – you can test your connection in the Add New Remote dialog.
